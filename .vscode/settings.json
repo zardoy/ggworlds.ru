@@ -1,0 +1,25 @@
+{
+    "cSpell.language": "en,ru,ru-RU",
+    "cSpell.enableFiletypes": [
+        "!cpp",
+        "!csharp",
+        "!css",
+        "!handlebars",
+        "!jade",
+        "!java",
+        "!javascript",
+        "!javascriptreact",
+        "!json",
+        "!jsonc",
+        "!latex",
+        "!php",
+        "!python",
+        "!restructuredtext",
+        "!rust",
+        "!scala",
+        "!scss",
+        "!typescript",
+        "!yaml",
+        "!yml"
+    ]
+}
