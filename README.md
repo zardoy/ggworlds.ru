@@ -1,6 +1,4 @@
-# Tell Tale About Borow
-
-PLAY NOW AT [ttab.zardoy.com](https://ttab.zardoy.com)!
+# GGWorlds
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
