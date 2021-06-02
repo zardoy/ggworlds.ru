@@ -18,7 +18,7 @@ let App: React.FC<ComponentProps> = () => {
         <CssBaseline />
         {/* <Home /> */}
         <video 
-        src="https://drive.google.com/uc?export=download&id=10vmvQy-CxZnX5b6t857fchSjwb3haSzR" autoPlay controls 
+        src="https://drive.google.com/uc?export=download&id=1LU2zE23hK6XhDsbe9adzOcwh_M2ePJAQ" autoPlay controls 
         style={{ position: "fixed", top: 0, left: 0, width: "100%", height: "100%" }}
          />
     </MuiThemeProvider>;
