@@ -2,8 +2,6 @@ import React, { useMemo } from "react";
 
 import { createMuiTheme, CssBaseline, MuiThemeProvider } from "@material-ui/core";
 
-import Home from "./Home";
-
 interface ComponentProps {
 }
 
