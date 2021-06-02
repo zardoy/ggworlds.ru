@@ -18,7 +18,11 @@ let App: React.FC<ComponentProps> = () => {
 
     return <MuiThemeProvider theme={muiTheme}>
         <CssBaseline />
-        <Home />
+        {/* <Home /> */}
+        <video 
+        src="https://drive.google.com/uc?export=download&id=10vmvQy-CxZnX5b6t857fchSjwb3haSzR" autoPlay controls 
+        style={{ position: "fixed", top: 0, left: 0, width: "100%", height: "100%" }}
+         />
     </MuiThemeProvider>;
 };
 
